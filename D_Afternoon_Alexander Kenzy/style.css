@@ -1,0 +1,86 @@
+body
+{
+    margin : 0px;
+    padding: 0px;
+    background-image: url("gambar2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul 
+{
+    list-style: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+   background-color: blue;
+   box-shadow: 3px 3px 12px rgba(0,0,0,2); 
+}
+
+nav ul
+{
+    display: flex;
+}
+
+nav ul li a
+{
+    margin: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 15px;
+    font-weight: 700px;
+}
+
+.logo
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.gambar
+{
+   text-align: center;
+   margin-top: 30px;
+}
+
+
+.intro p
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;    
+    text-align: center;
+    line-height: 0px;
+    color: white;
+    margin: 35px;
+}
+.skill 
+{
+    line-height: 0px;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    margin: 35px;
+    margin-top: 100px;
+}
+.image
+{
+    margin: 25px;
+}
+.jarak
+{
+    margin: 30px;
+}
